@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "04B11C58-ED9B-4260-9431-19C3D7BA988D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "023E034B-115F-454E-8A27-A72CDEE7F2EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WSHS Maps/Home.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "init(name:floor:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "023E034B-115F-454E-8A27-A72CDEE7F2EB - b96c287ebe82e2d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of WSHS_Maps.Home.floors : Swift.Dictionary&lt;Swift.Int, WSHS_Maps.Floor&gt;"
+                  moduleName = "WSHS Maps"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minu/Documents/wshs-maps/frontend/ios/WSHS%20Maps/Home.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "023E034B-115F-454E-8A27-A72CDEE7F2EB - e2c1ef23644ecfbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WSHS_Maps.Home.init(location: @autoclosure () -&gt; WSHS_Maps.LocationManager) -&gt; WSHS_Maps.Home"
+                  moduleName = "WSHS Maps"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minu/Documents/wshs-maps/frontend/ios/WSHS%20Maps/Home.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
