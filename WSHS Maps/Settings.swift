@@ -51,8 +51,8 @@ struct Settings: View {
 
             HStack(alignment: .top, spacing: 10) {
                 VStack(alignment: .leading, spacing: 10) {
-                    Text("Avoid Elevators").font(Font.custom("Inter-Bold", size: 25))
-                    Text("Disabled by default (just like the people who use elevators), but for those who use it, enable this option to include the use of the school elevator in your route.")
+                    Text("Use Elevators").font(Font.custom("Inter-Bold", size: 25))
+                    Text("Enable this option to utilize the school elevator in your route, instead of the stairs.")
                         .font(Font.custom("Inter-Regular", size: 16))
                         .foregroundColor(Color(red: 0.376470588, green: 0.403921569, blue: 0.439215686))
                 }
