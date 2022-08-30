@@ -1,5 +1,5 @@
 # WSHS Maps
-![preview](https://i.ibb.co/4gsnCyW/preview.png)
+[![preview](https://i.ibb.co/4gsnCyW/preview.png)](https://apps.apple.com/app/wshs-maps/id1638877055)
 
 ## Description
 Get walking directions to anywhere in West Springfield High School with WSHS Maps.
